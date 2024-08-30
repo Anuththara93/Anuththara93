@@ -115,6 +115,6 @@
 
 <br>
 
-<p align="right"> <h3> </h3> <img src="https://komarev.com/ghpvc/?username=Anuththara93&label=Profile%20views&color=0e75b6&style=flat"
+<p align="left"> <h3> </h3> <img src="https://komarev.com/ghpvc/?username=Anuththara93&label=Profile%20views&color=0e75b6&style=flat"
     alt="Anuththara93" /> 
 </p>
