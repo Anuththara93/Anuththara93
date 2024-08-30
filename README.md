@@ -3,16 +3,19 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" style="margin-left: 200px;"/></p>
+<div style="overflow: hidden;">
+  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" style="margin-left: 200px;" />
+</div>
 
+<div style="margin-right: 150px;"> 
+  - 🌱 I’m currently learning Web Development and other programming languages
 
-- 🌱 I’m currently learning Web Development and other programming languages
+  - 🧑‍🎓 I’m an Undergraduate at University of Colombo School of Computing
 
-- 🧑‍🎓 I’m an Undergraduate at University of Colombo School of Computing
+  - 📫 How to reach me **anuththara1000@gmail.com**
 
-- 📫 How to reach me **anuththara1000@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+  - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+</div>
 
 <br>
 
