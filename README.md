@@ -53,12 +53,6 @@
   <a href="https://material-ui.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40" />
   </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.r-project.org/logo/Rlogo.png" alt="r" width="40" height="40" />
-  </a>
-  <a href="https://www.gnu.org/software/octave/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" alt="octave" width="40" height="40" />
-  </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="40" height="40" />
   </a>
