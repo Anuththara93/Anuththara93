@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Web Development, QA, and other programming languages
 - 🧑‍🎓 I’m an Undergraduate at University of Colombo School of Computing
-- 📫 How to reach me: **anuththara1000@gmail.com**
+- 📫 How to reach me: **hianuththara93@gmail.com**
 - ⚡ Fun fact: Food and Music 🎵 are the reasons to live.
 
 <br>
