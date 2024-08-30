@@ -99,9 +99,9 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuththara93&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Anuththara93" style="width:50%;"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuththara93&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Anuththara93" /></p>
       
-<p align="right"> <a href="https://twitter.com/" target="blank"><img
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 </p>
 
