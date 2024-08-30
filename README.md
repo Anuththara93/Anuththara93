@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" style="width:80%;" />
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Web Development, QA, and other programming languages
 - 🧑‍🎓 I’m an Undergraduate at University of Colombo School of Computing
 - 📫 How to reach me: **anuththara1000@gmail.com**
 - ⚡ Fun fact: Food and Music 🎵 are the reasons to live.
