@@ -53,20 +53,11 @@
   <a href="https://material-ui.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40" />
   </a>
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="40" height="40" />
-  </a>
-  <a href="https://testng.org/doc/" target="_blank" rel="noreferrer">
-    <img src="https://testng.org/img/testng-logo.png" alt="testng" width="40" height="40" />
-  </a>
   <a href="https://en.wikipedia.org/wiki/Manual_testing" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/4248/4248394.png" alt="manual-testing" width="40" height="40" />
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring-boot" width="40" height="40" />
   </a>
 </p>
 
